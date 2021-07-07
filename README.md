@@ -1,3 +1,3 @@
 # Odin-Books-Library
 
-Simple Vanilla Javascript Books Application. #OdinProject
+Simple vanilla JavaScript books application. #OdinProject
